@@ -15,6 +15,9 @@ public class Booleans {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        boolean intsCanHoldDecimals = false;
+        System.out.println(intsCanHoldDecimals);
+        
     }
     
 }
